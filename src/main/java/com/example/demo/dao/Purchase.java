@@ -2,7 +2,7 @@ package com.example.demo.dao;
 
 
  import javax.persistence.*;
-
+//testing github
 @Entity
 @Table(name="purchase")
 public class Purchase {
