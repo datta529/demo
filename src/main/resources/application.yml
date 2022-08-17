@@ -1,0 +1,8 @@
+spring:
+  datasource:
+    url: jdbc:mysql://localhost:3306/localgroup
+    driver-class: com.mysql.jdbc.Driver
+    username: root
+    password: Lordganesh@3
+  jpa:
+    database-platform: org.hibernate.dialect.SQLServer2012Dialect
